@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { AppBar, Toolbar, IconButton, 
     Typography } from '@material-ui/core'
 import MenuIcon from '@material-ui/icons/Menu'
@@ -28,6 +28,6 @@ const Navigation = () => {
             </Toolbar>
         </AppBar>
     )
-}
+};
 
-export default Navigation
+export default Navigation;
